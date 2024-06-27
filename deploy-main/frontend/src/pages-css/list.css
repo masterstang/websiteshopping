@@ -1,0 +1,179 @@
+.cardorderlist{
+    border-radius: 0.5rem;
+}
+.cardcart{
+    border-radius: 0.5rem;
+
+}
+.login{
+    border-radius: 0.5rem;
+    margin: 2%;
+    width: 20rem;
+}
+.register{
+    border-radius: 0.5rem;
+    margin: 2%;
+}
+.Order{
+    border-radius: 0.5rem;
+}
+.boxuserlist{
+    margin: 2%;
+}
+.cart{
+    margin: 2%;
+}
+.carddetails{
+    margin: 3%;
+    border-radius: 0.5rem;
+
+}
+.boxdetails{
+    margin: 2%;
+
+}
+.boxplaceorder{
+    margin: 2%;
+}
+.line{
+    border-right: solid 3px #364e96;
+    width: 16rem;
+    
+}
+.carduser{
+    border-radius: 0.5rem;
+    width: 16rem;
+}
+.user{
+    border: 20%;
+    margin: 6%;
+}
+.userprofile{
+    margin: 2%;
+
+}
+.cardmyorders{
+    border-radius: 0.5rem;
+
+}
+.myorders{
+    margin: 2%;
+
+}
+.productprice{
+    top:100px;
+}
+.cardproductpice{
+    border-radius: 2rem;
+    width: 500px;
+}
+.boxreviews{
+    position: relative;
+    top: -1rem;
+}
+.edituser{
+    margin: 2%;
+    
+}
+.Carduseredit{
+    border-radius: 0.5rem;
+}    
+.Cardpayment{
+    border-radius:  0.5rem;
+
+}
+.boxselectmethod{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.Order{
+    border-radius: 2rem;
+    width: 70rem;
+}
+.boxdetails{
+    margin: 2%;
+}
+.cardplaceorder{
+    border-radius: 0.5rem;
+
+}
+.cardsubtotal{
+    border-radius: 0.5rem;
+}
+.ordersummary{
+    border-radius: 0.5rem;
+
+}
+.boxsignin{
+    margin: 4%;
+
+}
+.boxorder{
+    border-radius: 0.5rem;
+    margin: 20%;
+
+}
+.boxxx{
+    border-radius: 2rem;
+
+}
+.boxlogin{
+    margin-top:2%;
+    border-radius: 0.5rem;
+
+}
+.bg{
+    background-color: #cfc7cd;
+
+}
+.cardO{
+    width: 550px;
+}
+.textpack{
+    margin: 4%;
+
+}
+@media only screen and (orientation:portrait) {
+    .boxlogin{
+        width: 30vh;
+    }
+    .login{
+        width: 30vh;
+
+    }
+    .cardname{
+        width: 0vh;
+    }
+    .cardorder{
+        width: 10vh;
+    }
+    .cardO{
+        width: 351px;
+    }
+    .textpack{
+        margin: 4%;
+
+    }
+    .boxplaceorder{
+        margin: 4%;
+
+    }
+    .profile{
+        width: 4%;
+    }
+    .cardmyorders{
+        top: 1rem;
+        width: 350px;
+    }
+    .userprofile{
+        align-items: center;
+
+    }
+    .carduser{
+        width: 350px;
+
+    }
+ 
+}

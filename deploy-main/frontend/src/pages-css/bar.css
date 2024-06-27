@@ -1,0 +1,29 @@
+.downbar{
+    color: #ffffff;
+    background-color:#343a40;
+    height: 25vh;
+    width: 100%;
+}
+
+.textcontact{
+    font-size: 30px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.contact{
+    margin-left: 1%;
+    margin-top: 0.5rem;
+}
+
+.textcop {
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    width: 96%;
+    margin-top: 2rem;
+}
+
+.button{
+    top: 0.3rem;
+}
